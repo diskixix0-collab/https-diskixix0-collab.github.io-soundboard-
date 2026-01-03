@@ -1,0 +1,14 @@
+soundboard/
+├─ index.html
+├─ css/
+│  └─ styles.css
+├─ js/
+│  ├─ app.js
+│  ├─ audio.js
+│  ├─ storage.js
+│  ├─ profiles.js
+│  └─ ui.js
+├─ assets/
+│  └─ icons/
+├─ manifest.json
+└─ service-worker.js
